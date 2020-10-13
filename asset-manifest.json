@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//vcai122.github.io/react-deploy-helloWorld/static/css/main.5f361e03.chunk.css",
+    "main.js": "/http//vcai122.github.io/react-deploy-helloWorld/static/js/main.7697ba07.chunk.js",
+    "main.js.map": "/http//vcai122.github.io/react-deploy-helloWorld/static/js/main.7697ba07.chunk.js.map",
+    "runtime-main.js": "/http//vcai122.github.io/react-deploy-helloWorld/static/js/runtime-main.df41171d.js",
+    "runtime-main.js.map": "/http//vcai122.github.io/react-deploy-helloWorld/static/js/runtime-main.df41171d.js.map",
+    "static/js/2.1e2da53a.chunk.js": "/http//vcai122.github.io/react-deploy-helloWorld/static/js/2.1e2da53a.chunk.js",
+    "static/js/2.1e2da53a.chunk.js.map": "/http//vcai122.github.io/react-deploy-helloWorld/static/js/2.1e2da53a.chunk.js.map",
+    "index.html": "/http//vcai122.github.io/react-deploy-helloWorld/index.html",
+    "precache-manifest.464fbef3aaccf89ed5553501f12a1731.js": "/http//vcai122.github.io/react-deploy-helloWorld/precache-manifest.464fbef3aaccf89ed5553501f12a1731.js",
+    "service-worker.js": "/http//vcai122.github.io/react-deploy-helloWorld/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/http//vcai122.github.io/react-deploy-helloWorld/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1e2da53a.chunk.js.LICENSE.txt": "/http//vcai122.github.io/react-deploy-helloWorld/static/js/2.1e2da53a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/http//vcai122.github.io/react-deploy-helloWorld/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df41171d.js",
+    "static/js/2.1e2da53a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7697ba07.chunk.js"
+  ]
+}
